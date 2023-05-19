@@ -664,6 +664,7 @@ alias i2c:oplus,nu1619-rx oplus_chg
 alias i2c:mp2650-charger oplus_chg
 alias i2c:sc8571-master oplus_chg
 alias i2c:sc8571-slave oplus_chg
+alias i2c:sc8571-slave-b oplus_chg
 alias i2c:bq25980-master oplus_chg
 alias i2c:bq25980-slave oplus_chg
 alias i2c:nu2205-master oplus_chg
