@@ -302,7 +302,7 @@ extra/vendor/qcom/opensource/wlan/platform/cnss_utils/cnss_plat_ipc_qmi_svc.ko
 extra/vendor/qcom/opensource/wlan/platform/cnss2/cnss2.ko
 extra/vendor/qcom/opensource/wlan/platform/cnss_genl/cnss_nl.ko
 extra/vendor/qcom/opensource/wlan/platform/cnss_prealloc/cnss_prealloc.ko
-extra/vendor/qcom/opensource/wlan/qcacld-3.0/.qca6490/qca_cld3_kiwi_v2.ko
+extra/vendor/qcom/opensource/wlan/qcacld-3.0/.kiwi_v2/kiwi_v2.ko
 extra/vendor/qcom/opensource/bt-kernel/pwr/btpower.ko
 extra/vendor/qcom/opensource/bt-kernel/slimbus/bt_fm_slim.ko
 extra/vendor/qcom/opensource/bt-kernel/rtc6226/radio-i2c-rtc6226-qca.ko
